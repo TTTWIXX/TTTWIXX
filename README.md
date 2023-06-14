@@ -1,6 +1,9 @@
 <h1> 😶‍🌫️&nbsp;TTTWIXX &nbsp;<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftttwixx&count_bg=%23929384&title_bg=%23E02E2E&icon=&icon_color=%236DDAE6&title=hits&edge_flat=false"/></a></h1>
 <div align = "center">
 
+<img src="https://ppss.kr/wp-content/uploads/2022/10/1-6.jpg" /> <br> 
+<img src="https://img.etnews.com/news/article/2022/10/29/article_29091758713102.jpg" /> <br> 
+<img src="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/10/28/381fbdab-79e9-40bf-86d0-b979bfedbfce.jpg" /> <br> 
 <!--  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tttwixx)](https://solved.ac/tttwixx/)
  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tttwixx&theme=warm) -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TTTWIXX&layout=compact)](https://github.com/tttwixx/github-readme-stats)
